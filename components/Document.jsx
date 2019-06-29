@@ -22,7 +22,7 @@ Document.propTypes = {
   children: PropTypes.node,
 };
 Document.defaultProps = {
-  children: null,
+  children: <div />,
 };
 
 export default Document;
